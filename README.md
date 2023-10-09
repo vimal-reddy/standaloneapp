@@ -1,0 +1,2 @@
+# standaloneapp
+javastandaloneapp created
